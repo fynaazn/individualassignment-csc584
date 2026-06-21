@@ -114,7 +114,7 @@ See [`StudentProfilesDB.sql`](./StudentProfilesDB.sql) for the full script.
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/fynaazn/individualassignment-csc584.git
    ```
 
 2. **Open the project in NetBeans**
